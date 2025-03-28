@@ -1,4 +1,4 @@
-const lamp = document.getElementById('conto1');
+const conto1 = document.getElementById('conto1');
 
 function EntrarSite(){
        window.location.href='https://zoe0714.github.io/CONTO/conto1.html';
